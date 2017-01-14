@@ -1,4 +1,6 @@
 # EBS backup Lambda worker
 
-https://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/
-http://www.awsomeblog.com/amazon-web-services-snapshot-checking-tool/
+Playing around with AWS Lambda and Terraform.
+
+The Python backup script source code based is based on the example code from article
+[Scheduling EBS Snapshots](https://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/).
